@@ -1,9 +1,8 @@
 # nginx module
 
-[**Dist Git**](http://pkgs.fedoraproject.org/cgit/modules/nginx.git/) |
-[**F26 modulemd**](http://pkgs.fedoraproject.org/cgit/modules/nginx.git/tree/nginx.yaml?h=f26) |
-[**Package DB**](https://admin.fedoraproject.org/pkgdb/package/modules/nginx/) |
-[**PDC**](https://pdc.fedoraproject.org/rest_api/v1/unreleasedvariants/?active=True&variant_name=nginx)
+[**Package DB** (owner)](https://admin.fedoraproject.org/pkgdb/package/modules/nginx/) |
+[**F26 modulemd** (source)](http://pkgs.fedoraproject.org/cgit/modules/nginx.git/tree/nginx.yaml?h=f26) |
+[**PDC** (result)](https://pdc.fedoraproject.org/rest_api/v1/unreleasedvariants/?active=True&variant_name=nginx)
 
 
 An initial version of the nginx webserver module.
