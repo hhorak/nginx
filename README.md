@@ -1,4 +1,4 @@
-**For F26 Boltron module, please see the [f26-boltron branch](ref/f26-boltron).**
+**For F26 Boltron module, please see the `f26-boltron` branch.**
 
 ---
 
