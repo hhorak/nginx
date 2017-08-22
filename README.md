@@ -19,4 +19,11 @@ This section includes a list of modules along with toplevel binary input package
 Nginx is a webserver.
 
 * `nginx`, the actual nginx webserver
+* `nginx-filesystem`, TBA
+* `nginx-mod-http-geoip`, TBA
+* `nginx-mod-http-image-filter`, TBA
+* `nginx-mod-http-perl`, TBA
+* `nginx-mod-http-xslt-filter`, TBA
+* `nginx-mod-mail`, TBA
+* `nginx-mod-stream`, TBA
 
